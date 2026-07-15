@@ -1,7 +1,11 @@
 ---
-title: "欢迎来到 MoonShadow"
+title:
+  zh: "欢迎来到 MoonShadow"
+  en: "Welcome to MoonShadow"
 slug: "welcome"
-description: "这是 MoonShadow 博客的第一篇文章，介绍如何开始使用"
+description:
+  zh: "这是 MoonShadow 博客的第一篇文章，介绍如何开始使用"
+  en: "The first post on MoonShadow blog, introducing how to get started"
 date: "2026-07-15"
 categories:
   - "Other"
@@ -25,7 +29,7 @@ MoonShadow 是一个现代化的博客与开发者工具箱，支持：
 ## 开始写作
 
 1. 复制这个目录作为模板
-2. 修改 `index.md` 内容
+2. 修改 `index.zh.md` 和 `index.en.md` 内容
 3. 推送到你的数据仓库
 
 ## 多语言支持
