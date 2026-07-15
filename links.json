@@ -1,0 +1,16 @@
+[
+  {
+    "name": "示例友链",
+    "url": "https://example.com",
+    "desc": { "zh": "这是一个示例友链", "en": "This is an example link" },
+    "logo": "/logo.svg",
+    "gradient": "linear-gradient(135deg, #667eea, #764ba2)"
+  },
+  {
+    "name": "MoonShadow",
+    "url": "https://github.com/nuyue/MoonShadow",
+    "desc": { "zh": "现代化博客与开发者工具箱", "en": "Modern blog and developer toolkit" },
+    "logo": "https://avatars.githubusercontent.com/u/278374263",
+    "gradient": "linear-gradient(135deg, #1a1a2e, #16213e)"
+  }
+]

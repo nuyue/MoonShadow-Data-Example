@@ -1,0 +1,14 @@
+{
+  "autoPlay": false,
+  "defaultVolume": 50,
+  "defaultMode": "loop",
+  "songs": [
+    {
+      "id": "example-song",
+      "title": "示例歌曲",
+      "artist": "艺术家",
+      "file": "music/song.mp3",
+      "lrc": "music/song.lrc"
+    }
+  ]
+}
